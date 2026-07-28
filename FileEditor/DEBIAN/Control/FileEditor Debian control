@@ -1,0 +1,9 @@
+Package: com.example.fileeditor
+Name: FileEditor
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A simple file editor tweak for iOS 6
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate
