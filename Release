@@ -1,0 +1,8 @@
+Origin: FileEditor Repo
+Label: FileEditor Repo
+Suite: stable
+Version: 1.0
+Codename: ios6
+Architectures: iphoneos-arm
+Components: main
+Description: Cydia tweaks for iOS 6
